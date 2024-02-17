@@ -1,3 +1,4 @@
+import Loading from "@/components/auth/loading";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
