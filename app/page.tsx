@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Button variant={"destructive"} size={"lg"}>
-        Hello
+        Hello ji
       </Button>
     </main>
   );
